@@ -1,10 +1,11 @@
 # 🚀 Employee Management System using ASP.NET Core MVC & Design Patterns
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-ttps://img.shields.io/badge/C%23-.NET-orange)
-![SQL Server](https:///badge/SQL_Server-Database-red
-![EF Core](https://img.shields.io/badge/EF_Core-ORM-purple)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-Academic-lightgrey)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET=for-the-badge
+![C#](https://img.shields.io/badge/C%23-Orange?style=for-the
+![SQL Server](https://img.shields.io/badge/SQL_Server-Red?style=for-the-badge)ps://img.shields.io/badge/EF_Core-e=for-the-badge
+![Status](https://img.shields.io/badge/Status-Completeden?style=for-the-badge
+![License](https://img.shields.io/badge/License-Academic-lightgrey?style=ge
+
 ## ⭐ Project Highlights
 
 ✔️ Developed a full-stack Employee Management System using ASP.NET Core MVC
@@ -178,20 +179,22 @@ dotnet run
 
 ## 📸 Output Preview
 
-### Dashboard
-(Add Dashboard Screenshot Here)
-
 ### Employee List
 
-(Add Employee List Screenshot Here)
+<img width="940" height="808" alt="image" src="https://github.com/user-attachments/assets/1d50bf73-273c-415b-92f5-15d54e54fea9" />
+
+### Details
+
+<img width="938" height="804" alt="image" src="https://github.com/user-attachments/assets/5ab1fc4b-b676-416a-8546-43cd198c29ed" />
+
 
 ### Add Employee
 
-(Add Employee Form Screenshot Here)
+<img width="912" height="800" alt="image" src="https://github.com/user-attachments/assets/7066eeee-a1ef-419c-9c16-896c20b63385" />
 
 ### Edit Employee
 
-(Add Edit Employee Screenshot Here)
+<img width="912" height="799" alt="image" src="https://github.com/user-attachments/assets/dfb79a50-147e-46a0-8130-863090b721f9" />
 
 ## 🔮 Future Enhancements
 
