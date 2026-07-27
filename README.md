@@ -1,10 +1,11 @@
 # 🚀 Employee Management System using ASP.NET Core MVC & Design Patterns
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Corehttps://img.shields.io/badge/C%23-.NET-orange)
-![SQL Servershields.io/badge/SQL_Server-Database-red
-https://img.shields.io/badge/EF_Core-ORM-purple
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET
+![C#](https://img.shields.io/badge/C%23-.NET-orange)
+![SQL Server](https://img.shields.io/badgeDatabase-red
+![EF Core](https://img/badge/EF%20Core-ORM-purple
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-https://img.shields.io/badge/License-Academic-lightgrey
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
 ## ⭐ Project Highlights
 
@@ -106,15 +107,13 @@ SQL Server
 ## ⚙️ Installation Guide
 
 ### 🔹 Clone Repository
-git clone https://github.com/your-username/employee-management-system.git
+https://github.com/pasupunoornishita/Employee-Management-System.git
 
 cd employee-management-system
 
 ### 🔹 Configure Database
 Update the connection string in:
-
 json
-
 appsettings.json
 
 ### 🔹 Apply Migrations
@@ -217,9 +216,7 @@ dotnet run
 ## 👩‍💻 Author
 
 **Pasupunoor Nishita**
-236
- 
-237
+
 Information Technology Associate – Trainee
 
 Full Stack .NET Developer
