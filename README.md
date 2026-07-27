@@ -1,12 +1,10 @@
 # 🚀 Employee Management System using ASP.NET Core MVC & Design Patterns
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET
-![C#](https://img.shields.io/badge/C%23-.NET-orange)
-![SQL Server](https://img.shields.io/badgeDatabase-red
-![EF Core](https://img/badge/EF%20Core-ORM-purple
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-ttps://img.shields.io/badge/C%23-.NET-orange)
+![SQL Server](https:///badge/SQL_Server-Database-red
+![EF Core](https://img.shields.io/badge/EF_Core-ORM-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
-
 ## ⭐ Project Highlights
 
 ✔️ Developed a full-stack Employee Management System using ASP.NET Core MVC
@@ -107,7 +105,7 @@ SQL Server
 ## ⚙️ Installation Guide
 
 ### 🔹 Clone Repository
-https://github.com/pasupunoornishita/Employee-Management-System.git
+https://github.com/pasupunoornishita/Employee-Management-System
 
 cd employee-management-system
 
