@@ -1,12 +1,11 @@
 # 🚀 Employee Management System using ASP.NET Core MVC & Design Patterns
 
-https://img.shields.io/badge/ASP.NET_Core-MVC-blue
-![C#](https://img.shields.io/badge/C%23-.NET-orange)
-https://img.shields.io/badge/Database-SQL_Server-red
-![Entity Framework Core](https://img.shieldsk_Core-ORM-purple
-![Repository Pattern](https://img.shields.io/badge/ory-green
-![Factory Pattern](https://img.shgn_Pattern-Factory-brightgreen
-https://img.shields.io/badge/Design_Pattern-Strategy-yellowgreen
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET[C#](https://img.shields.io/badge/C%23-.NET-orange)
+![SQL Server](https:///badge/Database-SQL_Server-red
+![tps://img.shields.io/badge/Entity_Framework_Core-ORM-purple
+![Repository Pattern](https://img.shields.io/epository-green
+https://img.shields.io/badge/Design_Pattern-Factory-brightgreen
+![Strategy Pattern](httpsdge/Design_Pattern-Strategy-yellowgreen
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## ⭐ Project Highlights
